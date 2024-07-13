@@ -14,3 +14,15 @@ console.log("the sum of a and b is :", a + b)
 console.log("the substraction of a and b is :", a - b)
 console.log("the multiplication of a and b is :", a * b)
 console.log("the division of a and b is :" , a / b)
+
+let age1 = 70;
+
+if(age1 < 20){
+    console.log("You are young");
+}
+else if (age1 >= 20 && age1 <= 65){
+    console.log("You are middle-aged");
+}
+else{
+    console.log("you are senior")
+}
