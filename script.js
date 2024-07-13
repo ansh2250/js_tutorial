@@ -15,6 +15,8 @@ console.log("the substraction of a and b is :", a - b)
 console.log("the multiplication of a and b is :", a * b)
 console.log("the division of a and b is :" , a / b)
 
+
+//conditions 
 let age1 = 98;
 
 if (age1 < 18){
@@ -48,3 +50,7 @@ const student ={
     isStudent : true,
     isPass: true,
 };
+
+student ["name"] = "Zeeshan";
+
+console.log(student["name"])
