@@ -40,3 +40,13 @@ else if (number < 0){
 else{
     console.log("number is zero")
 }
+
+//objects
+
+const Student ={
+    stName : "Faizan",
+    Class : "Graduate",
+    Roll : 12,
+    Marks: 95.9, 
+    isPass: true,
+};
