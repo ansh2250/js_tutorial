@@ -7,3 +7,10 @@ const isStudent= true; //const is block-scoped and cannot be updated or re-decla
 console.log(name);
 console.log(age);
 console.log(isStudent);
+
+let a = 20;
+let b = 20;
+console.log("the sum of a and b is :", a + b)
+console.log("the substraction of a and b is :", a - b)
+console.log("the multiplication of a and b is :", a * b)
+console.log("the division of a and b is :" , a / b)
