@@ -28,3 +28,15 @@ else if (age1 >= 18 && age1 <= 60){
 else {
     console.log("You are a Cinior Citizen")
 }
+
+let number = -10;
+
+if (number > 0){
+    console.log("number is positive")
+}
+else if (number < 0){
+    console.log("number is negetive")
+}
+else{
+    console.log("number is zero")
+}
