@@ -54,3 +54,16 @@ const student ={
 student ["name"] = "Zeeshan";
 
 console.log(student["name"])
+
+// profile detail using object
+
+const profile ={
+    username: "Anas",
+    isfollow: false,
+    follower: 122,
+    following: 222,
+    post: 12,
+};
+
+console.log(profile.follower)
+console.log(typeof profile.isfollow)
