@@ -43,10 +43,13 @@ else{
 
 //objects
 
-const student ={
-    stName : "Faizan",
-    Class : "Graduate",
-    Roll : 12,
-    Marks: 95.9, 
-    isPass: true,
+const student = {
+    StudentName : "Rehan",
+    StudentAge : 20,
+    StudentClass : "BSCS",
+    StudentRollNo : 20,
+    isPass : true,
 };
+
+console.log(student["isPass"]); //viewing object 
+console.log(student.StudentRollNo)
