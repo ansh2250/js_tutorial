@@ -42,12 +42,9 @@ else{
 }
 
 //objects
-const Student ={
-
-    Name_Student: "Rehaan Kabir",
-    Age_Student: 20,
-    Class_Student: "matrice",
-    Marks_Student: 90,
-}
-;
-
+const student ={
+    Name : "Rehan",
+    Age1 : 25,
+    isStudent : true,
+    isPass: true,
+};
