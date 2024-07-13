@@ -42,14 +42,12 @@ else{
 }
 
 //objects
+const Student ={
 
-const student = {
-    StudentName : "Rehan",
-    StudentAge : 20,
-    StudentClass : "BSCS",
-    StudentRollNo : 20,
-    isPass : true,
-};
+    Name_Student: "Rehaan Kabir",
+    Age_Student: 20,
+    Class_Student: "matrice",
+    Marks_Student: 90,
+}
+;
 
-console.log(student["isPass"]); //viewing object 
-console.log(student.StudentRollNo)
