@@ -43,7 +43,7 @@ else{
 
 //objects
 
-const Student ={
+const student ={
     stName : "Faizan",
     Class : "Graduate",
     Roll : 12,
